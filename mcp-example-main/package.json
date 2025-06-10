@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/inspector": "^0.14.0",
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  },
+  "scripts": {
+    "mcp-inspector": "mcp-inspector"
+  }
+}
